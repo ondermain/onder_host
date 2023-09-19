@@ -117,9 +117,9 @@ body {overflow-y:visible;overflow-x:auto; }
 .f-sns ul li a{display:block; width:70px;height:70px;background-color:#626262 !important; border-radius:100%}
 .f-sns ul li a:hover{background-color:#ecb800 !important}
 
-.f-sns ul li:nth-child(1) a{background:url(../_Img/f-kakao.png) no-repeat center center}
-.f-sns ul li:nth-child(2) a{background:url(../_Img/f-blog.png) no-repeat center center}
-.f-sns ul li:nth-child(3) a{background:url(../_Img/f-instar.png) no-repeat center center}
+.f-sns ul li:nth-child(1) a{background:url(../img/f-kakao.png) no-repeat center center}
+.f-sns ul li:nth-child(2) a{background:url(../img/f-blog.png) no-repeat center center}
+.f-sns ul li:nth-child(3) a{background:url(../img/f-instar.png) no-repeat center center}
 
 .f-info{margin-top:27px;}
 .f-info h2{font-size:30px; font-weight:700; color:#626262; letter-spacing:-0.03em; line-height:1.2em;}
@@ -127,15 +127,15 @@ body {overflow-y:visible;overflow-x:auto; }
 .f-info .in-cmy{margin-top:25px;}
 .f-info .in-cmy p{font-size:15px; color:#737373; letter-spacing:-0.03em; line-height:1.45em; font-weight:400}
 
-.f-store h3{background:url(../_Img/f-ico.png) no-repeat;padding-left:185px;font-size:40px; font-weight:900; color:#edb800; line-height:1.3em; height:160px;  display:flex;align-items: center; justify-content:left}
+.f-store h3{background:url(../img/f-ico.png) no-repeat;padding-left:185px;font-size:40px; font-weight:900; color:#edb800; line-height:1.3em; height:160px;  display:flex;align-items: center; justify-content:left}
 .f-store ul{margin-top:42px;}
 .f-store ul:after{display:block; content:"";clear:Both}
 .f-store li{float:left;}
 .f-store li:nth-child(n+2){margin-left:64px;}
 .f-store li a{background-color:#333 !important; border-radius:88px; width:274px; display:block; height:88px;}
 
-.f-store li:nth-child(1) a{background:url(../_Img/ico-google.png) no-repeat center center}
-.f-store li:nth-child(2) a{background:url(../_Img/ico-appstore.png) no-repeat center center}
+.f-store li:nth-child(1) a{background:url(../img/ico-google.png) no-repeat center center}
+.f-store li:nth-child(2) a{background:url(../img/ico-appstore.png) no-repeat center center}
 
 .f-store .ex{font-size:18px; color:#6c6c6c; font-weight:400 ; letter-spacing:-0.03em; line-height:1.2em; margin-top:15px}
 
